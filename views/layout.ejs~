@@ -15,7 +15,7 @@
 <body>
 <div id="page-wrap">
 	<header>
-		<h2>Quiz Show: el juego de tu madre</h2>
+		<h2>Quiz Show: el juego de las preguntas</h2>
 	</header>
 	
 	<nav class="main" id="n1" role="navigation">
@@ -29,6 +29,7 @@
 
 	<footer class="main" id="f1">
 		<a href="http://es.wikipedia.org/wiki/Quiz">Qué es un quiz?</a>
+		<a href="https://github.com/mmoontoro/quizshow-2015">Proyecto en GitHub</a>
 	</footer>
 </div>
 </body>
