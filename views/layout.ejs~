@@ -15,12 +15,13 @@
 <body>
 <div id="page-wrap">
 	<header>
-		<h2>Quiz Show: el juego de las preguntas</h2>
+		<h2>Quiz Show: el juego de tu madre</h2>
 	</header>
 	
 	<nav class="main" id="n1" role="navigation">
 		<spam><a href="/">Inicio</a></spam>
 		<spam><a href="/quizes/question">Preguntas</a></spam>
+		<spam><a href="/author">Creditos</a></spam>
 	</nav>
 
 	<section class="main" id="s1">
